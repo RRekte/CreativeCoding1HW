@@ -1,0 +1,18 @@
+<html>
+    <style> 
+    span {
+        background-color: rgb(85, 83, 113);
+    }
+    </style>
+    <title>  Star Wars 
+        </title>
+        <body>   Favorite Trilogy
+               <br>
+               <form>
+                <input type="radio" value="Original Trilogy">Original Trilogy<br>
+                <input type="radio" value="Prequel Trilogy">Prequel Trilogy<br>
+                <input type="radio" value="Sequel Trilogy">Sequel Trilogy<br>
+               </form>
+               <a href="page3.html">Page3</ahref>"
+        </body>
+</html> 
