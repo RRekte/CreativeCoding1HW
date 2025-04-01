@@ -30,10 +30,6 @@ function setup() {
   // body
   fill(10, 24, 120);
   rect(200,185,100,150);
-  
-  // decoration
-  fill(255);
-  triangle(220,320,250,220,280,320)
   // right arm
   fill(10, 24, 120);
   rect(300,195,50,10);
